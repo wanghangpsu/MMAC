@@ -46,7 +46,6 @@ Run_command:
 ```bash
 $ ./run_mmac.sh
 ```
-Which applies the UnivBD method on all the models. 
 
 
 ## MMDF
